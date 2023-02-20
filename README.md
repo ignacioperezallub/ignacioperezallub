@@ -3,8 +3,6 @@
 <h2>👨‍💻 Projects:</h2>
 
 - Fruit Detection with Kmeans and KNN <br/> [Algorithm with  project](https://github.com/ignacioperezallub/fruit_classification-)
-- Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components) <br/> [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-
   
  <h2> 📫 How to reach me:</h2>
 
