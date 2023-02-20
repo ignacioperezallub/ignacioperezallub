@@ -1,10 +1,10 @@
 <h1>Hi there 🦾, I'm Ignacio! <br/><a href="https://github.com/ignacioperezallub">Artificial Intelligence enthusiast</a> and <a href="https://www.linkedin.com/in/ignacio-perez-allub/">Mechatronics Engineering Student</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-- <b>Fruit Detection with Kmeans and KNN</b>
-  - [Algorithm with  project](https://github.com/ignacioperezallub/fruit_classification-)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+- Fruit Detection with Kmeans and KNN <br/> [Algorithm with  project](https://github.com/ignacioperezallub/fruit_classification-)
+- Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components) <br/> [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
   
  <h2> 📫 How to reach me:</h2>
 
