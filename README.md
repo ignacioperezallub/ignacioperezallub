@@ -1,4 +1,4 @@
-<h1>Hi there 🦾, I'm Ignacio! <br/><a href="https://github.com/ignacioperezallub">Artificial Intelligence enthusiast</a> and <a href="https://www.linkedin.com/in/ignacio-perez-allub/">Mechatronics Engineering Student</a></h1>
+<h1>Hi there 🦾, I'm Ignacio! <br/> <a href="https://www.linkedin.com/in/ignacio-perez-allub/">Mechatronics Engineering Student</a> and <a href="https://github.com/ignacioperezallub">Artificial Intelligence enthusiast</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
