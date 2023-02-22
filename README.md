@@ -4,16 +4,16 @@
 <ul>
   <li><h3>AI and Machine Learning:</h3></li>
     <ul>
-      <li><a href="https://github.com/ignacioperezallub/fruit_classification-"</a>Fruit Detection with Kmeans and KNN <br/> A university project for the Artificial Intelligence course.</li>
+      <li><a href="https://github.com/ignacioperezallub/fruit_classification-">Fruit Detection with Kmeans and KNN</a><br/> A university project for the Artificial Intelligence course.</li>
     </ul>
   <li><h3>Web (simple projects):</h3></li>
     <ul>
-      <li><a href="https://github.com/ignacioperezallub/web_page">Web Portfolio <br/> A simple portfolio to showcase some abilities.</a></li>
-      <li><a href="https://github.com/ignacioperezallub/Ecostart">EcoStart <br/> My first steps in web development for a university course.</a></li> 
+      <li><a href="https://github.com/ignacioperezallub/web_page">Web Portfolio</a><br/> A simple portfolio to showcase some abilities.</li>
+      <li><a href="https://github.com/ignacioperezallub/Ecostart">EcoStart</a><br/> My first steps in web development for a university course.</li> 
     </ul>
   <li><h3>Android and Virtual Reality:</h3></li>
     <ul>
-       <li><a href="https://github.com/Mesa625/Pochedex">Pochedex <br/> A simple android app to simulate the well known pokedex from the pokemon game.</a></li>
+       <li><a href="https://github.com/Mesa625/Pochedex">Pochedex</a><br/> A simple android app to simulate the well known pokedex from the pokemon game.</li>
     </ul>
   
 </ul>
