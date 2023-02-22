@@ -1,9 +1,12 @@
 <h1>Hi there 🦾, I'm Ignacio! <br/> <a href="https://www.linkedin.com/in/ignacio-perez-allub/">Mechatronics Engineering Student</a> and <a href="https://github.com/ignacioperezallub">Artificial Intelligence enthusiast</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-
+<h3>AI and Machine Learning</h3>
 - Fruit Detection with Kmeans and KNN <br/> [Algorithm with  project](https://github.com/ignacioperezallub/fruit_classification-)
-  
+
+<h3>Web ( simple projects )</h3>
+<h3>Android and Virtual Reality</h3>
+
  <h2> 📫 How to reach me:</h2>
 
 [<img align="left" alt="Ignacio Perez Allub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
