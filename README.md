@@ -4,7 +4,7 @@
 <ul>
   <li><h3>AI and Machine Learning:</h3></li>
     <ul>
-      <li><a href="https://github.com/ignacioperezallub/fruit_classification-">Fruit Detection with Kmeans and KNN</a><br/> A university project for the Artificial Intelligence course.</li>
+      <li><a href="https://github.com/ignacioperezallub/fruit_classification-">Fruit Detection with Kmeans and KNN</a>: A university project for the Artificial Intelligence course.</li>
     </ul>
   <li><h3>Web (simple projects):</h3></li>
     <ul>
