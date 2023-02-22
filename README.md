@@ -1,11 +1,14 @@
 <h1>Hi there 🦾, I'm Ignacio! <br/> <a href="https://www.linkedin.com/in/ignacio-perez-allub/">Mechatronics Engineering Student</a> and <a href="https://github.com/ignacioperezallub">Artificial Intelligence enthusiast</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-<h3>AI and Machine Learning</h3>
-- Fruit Detection with Kmeans and KNN <br/> [Algorithm with  project](https://github.com/ignacioperezallub/fruit_classification-)
-
-<h3>Web ( simple projects )</h3>
-<h3>Android and Virtual Reality</h3>
+<ul>
+  <li><h3>AI and Machine Learning:</h3></li>
+    <ul>
+      <li>Fruit Detection with Kmeans and KNN <br/> <a href="https://github.com/ignacioperezallub/fruit_classification-">Algorithm with  project</a></li>
+    </ul>
+  <li><h3>Web (simple projects):</h3></li>
+  <li><h3>Android and Virtual Reality:</h3></li>
+</ul>
 
  <h2> 📫 How to reach me:</h2>
 
