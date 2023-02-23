@@ -5,6 +5,8 @@
   <li><h3>AI and Machine Learning:</h3></li>
     <ul>
       <li><a href="https://github.com/ignacioperezallub/fruit_classification-">Fruit Detection with Kmeans and KNN</a> : University project for the Artificial Intelligence course.</li>
+      <li><a href="https://github.com/ignacioperezallub/ml_tensorflow_fcc">MAchine Learning with TensorFLow</a> : Online course taken by myself, offered by freecodecamp, to go more deep into machine learning techniques and to learn about the TensorFlow library.</li>
+      <li><a href="https://github.com/ignacioperezallub/artificial_int_II">Artificial Intelligence University Course</a> : An introductory course to learn some of the most importants algorithms in the AI world .</li>
     </ul>
   <li><h3>Web (simple projects):</h3></li>
     <ul>
